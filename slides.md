@@ -15,17 +15,17 @@ layout: section
 
 ::right::
 
-**16:30** - Intro to coderetreat and the Game of Life
+**16:00** - Intro to coderetreat and the Game of Life
 
-**17:00** - Session 1 - Pairing
+**16:30** - Session 1 - Pairing
 
-**18:00** - Intro to TDD
+**17:30** - Intro to TDD
 
-**18:15** - Session 2 - Ping Pong
+**18:00** - Session 2 - Ping Pong
 
-**19:15** - Session 3 - The Lazy Coder
+**19:00** - Session 3 - The Lazy Coder
 
-**20:15** - Retrospective
+**20:00** - Retrospective
 
 ---
 layout: items
